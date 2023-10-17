@@ -1,5 +1,5 @@
-#Week06
+# Week06
 
-##老師教怎寫Git的指令
+## 老師教怎寫Git的指令
 
-###老師教MarkDown的語法
+## 老師教MarkDown的語法
